@@ -1,6 +1,6 @@
 * Parallax Effect
   
-This project demonstrates a parallax scrolling effect using HTML, CSS, and JavaScript. The application features a visually engaging adventure-themed layout with a background image that moves at a different speed than the foreground elements, creating a 3D depth effect.
+This project demonstrates a parallax scrolling effect using HTML, CSS, and JavaScript. The application features a visually engaging adventure-themed layout with a background image that moves at a different speed than the foreground elements, creating a 3D depth effect..
 
 * Features
   
